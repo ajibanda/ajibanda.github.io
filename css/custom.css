@@ -164,6 +164,9 @@ h5{
   background-color: #3838385c;
 }
 
+.card{
+  margin-bottom: 5px;
+}
 
 .aaronname {
     animation: fadein 3s;
