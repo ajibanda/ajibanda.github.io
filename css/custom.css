@@ -1,9 +1,9 @@
 html {
-  height: 101%;
+  height: 100%;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   overflow: hidden;
-  margin-top: -6px;
-  
+  background: linear-gradient(90deg, #292f33 21px, transparent 1%) center, linear-gradient(#292f33 21px, transparent 1%) center, #a799cc;
+  background-size: 22px 22px;
 }
 
 a{
